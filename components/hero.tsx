@@ -23,7 +23,7 @@ export function Hero() {
 
         {/* Headline */}
         <h1 className="text-2xl md:text-4xl font-bold text-pretty text-foreground">
-          Empowering Leadership with Data-Driven Insights
+          Empoweringaa Leadership with Data-Driven Insights
         </h1>
 
         {/* Subtext */}

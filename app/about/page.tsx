@@ -12,7 +12,7 @@ export default function AboutPage() {
           <h1 className="text-3xl font-light mb-6 text-center">About Politix Matrix</h1>
           <div className="bg-card border rounded-xl p-8 shadow-lg hover:shadow-xl transition-all duration-500 hover:rotate-y-2 hover:scale-105 transform-gpu perspective-1000">
             <p className="leading-relaxed text-center">
-              India&apos;s premier political research and consulting firm, dedicated to empowering political leaders, parties, and organizations with data-driven strategies and insights that drive electoral success and strengthen democratic processes.
+              India&apos;s premier political research and consulting firm, dedicated to Empoweringaa political leaders, parties, and organizations with data-driven strategies and insights that drive electoral success and strengthen democratic processes.
             </p>
           </div>
         </Reveal>

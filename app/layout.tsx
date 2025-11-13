@@ -8,7 +8,7 @@ import { Toaster } from "@/components/toaster"
 
 export const metadata: Metadata = {
   title: "Politix Matrix",
-  description: "Empowering Leadership with Data-Driven Insights",
+  description: "Empoweringaa Leadership with Data-Driven Insights",
   generator: "v0.app",
 }
 
